@@ -1,0 +1,11 @@
+H:\audio_controller\AudioConsole\AudioConsole\obj\x86\Debug\AudioConsole.csprojResolveAssemblyReference.cache
+H:\audio_controller\AudioConsole\AudioConsole\bin\Debug\AudioConsole.exe
+H:\audio_controller\AudioConsole\AudioConsole\bin\Debug\AudioConsole.pdb
+H:\audio_controller\AudioConsole\AudioConsole\bin\Debug\CoreAudioApi.dll
+H:\audio_controller\AudioConsole\AudioConsole\bin\Debug\Nancy.dll
+H:\audio_controller\AudioConsole\AudioConsole\bin\Debug\Nancy.Hosting.Self.dll
+H:\audio_controller\AudioConsole\AudioConsole\bin\Debug\CoreAudioApi.pdb
+H:\audio_controller\AudioConsole\AudioConsole\bin\Debug\Nancy.xml
+H:\audio_controller\AudioConsole\AudioConsole\bin\Debug\Nancy.Hosting.Self.xml
+H:\audio_controller\AudioConsole\AudioConsole\obj\x86\Debug\AudioConsole.exe
+H:\audio_controller\AudioConsole\AudioConsole\obj\x86\Debug\AudioConsole.pdb
